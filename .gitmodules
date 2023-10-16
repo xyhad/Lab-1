@@ -1,0 +1,6 @@
+[submodule "Lab1"]
+	path = Lab1
+	url = https://github.com/AmosOng22/Lab1.git
+[submodule "Lab1_submodule"]
+	path = Lab1_submodule
+	url = https://github.com/ET0735-DevOps-AIoT/Lab1_submodule.git
